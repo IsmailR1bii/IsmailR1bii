@@ -10,6 +10,23 @@
 </div>
 
 -----
+
+👨‍💻 Software Engineer | 📚 NLP Researcher | 🌐 Defender of Democratizing the Internet
+
+👋 Hey there! I'm Ismail Rabii, a software engineer and natural language processing (NLP) researcher on a mission to make learning on the Internet more accessible and equitable for all.
+
+🧠 My work revolves around the fascinating world of NLP, where I explore cutting-edge techniques to extract insights, enable better communication, and bridge language barriers. Whether it's sentiment analysis, chatbots, or language modeling, I'm always pushing the boundaries of what's possible with code and language.
+
+🚀 I firmly believe that the internet should be a space where everyone has a voice and access to information, regardless of their background or location. That's why I'm dedicated to building open-source software solutions that empower individuals and communities to thrive online.
+
+💡 Here's what you can expect from me on GitHub:
+- 🛠️ Open-source projects: I love sharing my code and collaborating with others. Together, we can create tools that break down barriers and empower users.
+- 📖 NLP research: Stay tuned for my latest findings and experiments in the world of natural language processing.
+- 🌍 Initiatives for democratizing the internet: I'm actively involved in projects that aim to ensure a free, open, and accessible online world for all.
+
+🌱 Let's work together to harness the power of technology for good and make the internet a more inclusive place. Feel free to reach out, collaborate, or just have a chat! Together, we can code a brighter future. 🌟
+
+📫 Contact me: ismail.rabii.98@gmail.com
 <details>
   <summary>☎️ contact me</summary>
 <div>
@@ -42,194 +59,9 @@
   </samp>
 </div>
 </details>
+te]
 
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-  <!-- 
-    <h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-     alt="website" /></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/1999AZZAR"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
-  -->
 
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" height="25"
-     alt="Keras" /></a>
-
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25"
-     alt="pyTorch" /></a>
-  
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"
-     alt="Angular" /></a>
-
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"
-     alt="kafka" /></a>
-
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" height="25"
-     alt="spark" /></a>
-
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25"
-     alt="views count" /></a>
-
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25"
-     alt="views count" /></a>
-
-  <a href="github.com/IsmailR1bii" target="blank"><img align="center" 
-     src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"
-     alt="views count" /></a>
-
-  
-
-</samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/IsmailR1bii/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailR1bii&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="IsmailR1bii :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsmailR1bii&theme=gruvbox&layout=compact&hide_border=true"
-          alt="IsmailR1bii :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsmailR1bii&theme=gruvbox&layout=compact&hide_border=true"
-          alt="IsmailR1bii :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/IsmailR1bii/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IsmailR1bii&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailR1bii&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="ismail's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=IsmailR1bii&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
-  
-<details>
-  <summary>🌏 global</summary>
-  <br/>
-  <!--
-    <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
-        alt="for the badge"/></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details>
-  --> 
-<details open>
-  <summary>weekly random dumb'assci 😒 art</summary>
-<div>
-<samp>
-<h2 align="center"> my fav Rock Band's logo  RHCP  </h2>
-</samp>
-</div>
-
-```js
-/*
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@%%%%%%%%%%%@@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%@@@@%%%%%%%%%%%@@@@%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%@%%%%%%%%%%%@%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%@@@%%%%%%%%%%%@@@%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%@@@@@%%%%%%%%%%%@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-*/
-```
-</details>
-<br/>
-</details> 
 
 -----
 Credits: [Isma1lR1abii](https://github.com/Isma1lR1bii)
